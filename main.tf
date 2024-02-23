@@ -1,4 +1,4 @@
-# Create Security Group - SSH Traffic
+# Create Security Group - SSH Traffic 1
 resource "aws_security_group" "vpc-ssh" {
   name        = "vpc-ssh"
   description = "Dev VPC SSH"
